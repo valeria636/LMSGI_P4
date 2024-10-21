@@ -1,0 +1,84 @@
+table {
+
+    border:1px solid black;
+          border-collapse: collapse;
+          text-align: center;
+          margin: auto;
+          
+}
+
+td {
+    border:1px solid black;
+          border-collapse: collapse;
+}
+
+th {
+    
+    border:1px solid black;
+    width: 100px;    
+          border-collapse: collapse;
+          background-color: rgb(149, 251, 128);
+          font-weight: bold;
+          padding: 30px;
+          font-size: 25px;
+}
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+caption {
+    color: rgb(255, 208, 0);
+    font-size: 25px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.LMSGI {
+    background-color: rgb(241, 159, 212);
+}
+
+.BD {
+    background-color: rgb(255, 243, 200);
+}
+
+.PED {
+    background-color: rgb(80, 156, 142);
+}
+
+.SI {
+    background-color: rgb(246, 255, 0);
+}
+
+.TUT {
+    background-color: rgb(66, 120, 255);
+}
+
+.AN {
+    background-color: rgb(255, 225, 0);
+}
+
+.DIW {
+    background-color: rgb(255, 167, 43);
+}
+
+.IPOI {
+    background-color: rgb(197, 9, 53);
+}
+
+#Descans {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
